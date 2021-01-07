@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>258d9e06-708b-4b05-89a0-60c25b195180</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ProjectEuler.py</StartupFile>
+    <StartupFile>Problem 1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,10 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="3and5multiples.py">
+    <Compile Include="Problem 1.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="ProjectEuler.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
