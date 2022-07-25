@@ -1,5 +1,6 @@
 import sys
 import csv
+##import 
 
 def calc(names):
 	s = 0
